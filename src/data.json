@@ -1,29 +1,29 @@
 [
     {
         "id":1,
-        "name":"chicago",
-        "image":"src\\assets\\react.svg",
+        "name":"hydrogen",
+        "image":"src\\assets\\hydrogen_atom.webp",
         "desc":"pizza",
         "price":10
     },
     {
         "id":2,
-        "name":"new york",
-        "image":"src\\assets\\react.svg",
+        "name":"helium",
+        "image":"src\\assets\\helium_atom.webp",
         "desc":"pizza",
         "price":10
     },
     {
         "id":3,
-        "name":"Neopolitan",
-        "image":"src\\assets\\react.svg",
+        "name":"lithum",
+        "image":"src\\assets\\lithuim_atom.webp",
         "desc":"pizza",
         "price":10
     },
     {
         "id":4,
-        "name":"Neopslitan",
-        "image":"src\\assets\\react.svg",
+        "name":"beryillium",
+        "image":"src\\assets\\beryilluim_atom.jpg",
         "desc":"pizza",
         "price":10
     }

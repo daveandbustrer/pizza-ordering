@@ -11,11 +11,12 @@ export function Confirm({ toggle }: Prop) {
         }}
       >
         <Toast.Header>
-          <strong className="mr-auto"> your oder is in the oven </strong>
+          <img src="\pizza.png" alt="Pizza"></img>
+          <strong className="me-auto"> your order is on the way </strong>
           <small> just now</small>
         </Toast.Header>
         <Toast.Body>
-          Your delisous pizza will be with you in 30 mins!
+          your atom will be with you shortly in 0-1 billion business days
         </Toast.Body>
       </Toast>
     </div>
