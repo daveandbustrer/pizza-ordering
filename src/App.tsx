@@ -19,11 +19,20 @@ function App() {
   }
   return (
     <>
-      <div className="z-3">{ordered && <Confirm toggle={setOrdered} />}</div>
-      <Container className="z-1 position-fixed left-corner-100">
-        <Row>
+      <div className="z-3 position-fixed">
+        {ordered && <Confirm toggle={setOrdered} />}
+      </div>
+      <Container className="z-1 position-absolute content-background">
+        <Row className="justify-content-evenly">
           {pizzas.map((data) => (
-            <Col xs={3} className="mb-5" key={data.id}>
+            <Col
+              xs={"auto"}
+              sm={"auto"}
+              md={"auto"}
+              lg={"auto"}
+              className="mb-5"
+              key={data.id}
+            >
               <PizzaCard data={data} setOrdered={display_confirm} />
             </Col>
           ))}
