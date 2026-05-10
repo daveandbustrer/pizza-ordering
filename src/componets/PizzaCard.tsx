@@ -22,7 +22,7 @@ function PizzaCard({ data, setOrdered }: Prop) {
         </div>
         <Card.Text className="text-secondary">{data.desc}</Card.Text>
         <Button
-          onClick={() => setOrdered(data.name)}
+          onClick={() => setOrdered(data.name, data.id)}
           className="mt-auto font-weight-bold"
           variant="success"
         >

@@ -6,24 +6,54 @@ import { Col, Container, Row, ToastContainer } from "react-bootstrap";
 import { Confirm } from "./componets/Confirm";
 import PizzaCard from "./componets/PizzaCard";
 import pizzas from "./data.json";
-function App() {
-  const [ordered, setOrdered] = useState(false);
+const initialState = pizzas.map(() => ({
+  name: "",
+  visible: false,
+}));
 
-  const [atomName, setAtomName] = useState("");
-  function display_confirm(name: string) {
-    setOrdered(true);
-    setAtomName(name);
+function App() {
+  const [ordered, setOrdered] = useState(initialState);
+
+  function display_confirm(name: string, id: number) {
+    setOrdered((prev) => {
+      const copy = [...prev];
+      copy[id - 1] = { name, visible: true };
+      return copy;
+    });
+
     setTimeout(() => {
-      setOrdered(false);
+      setOrdered((prev) => {
+        const copy = [...prev];
+        copy[id - 1].visible = false;
+        return copy;
+      });
     }, 3000);
   }
+
   return (
     <>
       <ToastContainer position="top-start" className="p-3">
         <div className="z-3 position-fixed">
-          {ordered && <Confirm toggle={setOrdered} name={atomName} />}
+          {ordered.map(
+            (item, index) =>
+              item.visible && (
+                <Confirm
+                  key={index}
+                  id={index}
+                  name={item.name}
+                  toggle={() => {
+                    setOrdered((prev) => {
+                      const copy = [...prev];
+                      copy[index].visible = false;
+                      return copy;
+                    });
+                  }}
+                />
+              ),
+          )}
         </div>
       </ToastContainer>
+
       <Container className="z-1 position-absolute pt-5 start-50 translate-middle-x w-100">
         <Row className="justify-content-evenly">
           {pizzas.map((data) => (
