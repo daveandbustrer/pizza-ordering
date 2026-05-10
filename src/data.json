@@ -26,5 +26,803 @@
         "image":"src\\assets\\beryilluim_atom.jpg",
         "desc":"pizza",
         "price":10
-    }
+    },
+  {
+    "id":5,
+    "name":"boron",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":6,
+    "name":"carbon",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":7,
+    "name":"nitrogen",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":8,
+    "name":"oxygen",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":9,
+    "name":"fluorine",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":10,
+    "name":"neon",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":11,
+    "name":"sodium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":12,
+    "name":"magnesium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":13,
+    "name":"aluminum",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":14,
+    "name":"silicon",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":15,
+    "name":"phosphorus",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":16,
+    "name":"sulfur",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":17,
+    "name":"chlorine",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":18,
+    "name":"argon",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":19,
+    "name":"potassium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":20,
+    "name":"calcium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":21,
+    "name":"scandium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":22,
+    "name":"titanium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":23,
+    "name":"vanadium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":24,
+    "name":"chromium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":25,
+    "name":"manganese",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":26,
+    "name":"iron",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":27,
+    "name":"cobalt",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":28,
+    "name":"nickel",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":29,
+    "name":"copper",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":30,
+    "name":"zinc",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":31,
+    "name":"gallium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":32,
+    "name":"germanium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":33,
+    "name":"arsenic",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":34,
+    "name":"selenium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":35,
+    "name":"bromine",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":36,
+    "name":"krypton",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":37,
+    "name":"rubidium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":38,
+    "name":"strontium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":39,
+    "name":"yttrium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":40,
+    "name":"zirconium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":41,
+    "name":"niobium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":42,
+    "name":"molybdenum",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":43,
+    "name":"technetium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":44,
+    "name":"ruthenium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":45,
+    "name":"rhodium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":46,
+    "name":"palladium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":47,
+    "name":"silver",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":48,
+    "name":"cadmium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":49,
+    "name":"indium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":50,
+    "name":"tin",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":51,
+    "name":"antimony",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":52,
+    "name":"tellurium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":53,
+    "name":"iodine",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":54,
+    "name":"xenon",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":55,
+    "name":"cesium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":56,
+    "name":"barium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":57,
+    "name":"lanthanum",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":58,
+    "name":"cerium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":59,
+    "name":"praseodymium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":60,
+    "name":"neodymium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":61,
+    "name":"promethium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":62,
+    "name":"samarium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":63,
+    "name":"europium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":64,
+    "name":"gadolinium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":65,
+    "name":"terbium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":66,
+    "name":"dysprosium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":67,
+    "name":"holmium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":68,
+    "name":"erbium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":69,
+    "name":"thulium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":70,
+    "name":"ytterbium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":71,
+    "name":"lutetium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":72,
+    "name":"hafnium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":73,
+    "name":"tantalum",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":74,
+    "name":"tungsten",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":75,
+    "name":"rhenium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":76,
+    "name":"osmium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":77,
+    "name":"iridium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":78,
+    "name":"platinum",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":79,
+    "name":"gold",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":80,
+    "name":"mercury",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":81,
+    "name":"thallium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":82,
+    "name":"lead",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":83,
+    "name":"bismuth",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":84,
+    "name":"polonium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":85,
+    "name":"astatine",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":86,
+    "name":"radon",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":87,
+    "name":"francium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":88,
+    "name":"radium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":89,
+    "name":"actinium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":90,
+    "name":"thorium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":91,
+    "name":"protactinium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":92,
+    "name":"uranium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":93,
+    "name":"neptunium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":94,
+    "name":"plutonium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":95,
+    "name":"americium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":96,
+    "name":"curium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":97,
+    "name":"berkelium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":98,
+    "name":"californium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":99,
+    "name":"einsteinium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":100,
+    "name":"fermium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":101,
+    "name":"mendelevium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":102,
+    "name":"nobelium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":103,
+    "name":"lawrencium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":104,
+    "name":"rutherfordium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":105,
+    "name":"dubnium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":106,
+    "name":"seaborgium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":107,
+    "name":"bohrium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":108,
+    "name":"hassium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":109,
+    "name":"meitnerium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":110,
+    "name":"darmstadtium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":111,
+    "name":"roentgenium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":112,
+    "name":"copernicium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":113,
+    "name":"nihonium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":114,
+    "name":"flerovium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":115,
+    "name":"moscovium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":116,
+    "name":"livermorium",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":117,
+    "name":"tennessine",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+},
+{
+    "id":118,
+    "name":"oganesson",
+    "image":"pizza.png",
+    "desc":"pizza",
+    "price":10
+} 
 ]
