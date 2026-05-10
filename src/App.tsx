@@ -22,7 +22,7 @@ function App() {
       <div className="z-3 position-fixed">
         {ordered && <Confirm toggle={setOrdered} />}
       </div>
-      <Container className="z-1 position-absolute content-background">
+      <Container className="z-1 position-absolute pt-5 start-50 translate-middle-x w-100">
         <Row className="justify-content-evenly">
           {pizzas.map((data) => (
             <Col
