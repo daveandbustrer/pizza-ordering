@@ -34,10 +34,7 @@ function App() {
       <div>
         <Container>
           <Row xs={"auto"} sm={"auto"} md={"auto"} lg={"auto"}>
-            <img
-              src="public\atomic pizza colored logo.png"
-              alt="atomic pizza logo"
-            />
+            <img src="atomic pizza colored logo.png" alt="atomic pizza logo" />
           </Row>
         </Container>
       </div>
