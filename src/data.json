@@ -1,828 +1,144 @@
 [
-    {
-        "id":1,
-        "name":"hydrogen",
-        "image":"src\\assets\\hydrogen_atom.webp",
-        "desc":"pizza",
-        "price":10
-    },
-    {
-        "id":2,
-        "name":"helium",
-        "image":"src\\assets\\helium_atom.webp",
-        "desc":"pizza",
-        "price":10
-    },
-    {
-        "id":3,
-        "name":"lithum",
-        "image":"src\\assets\\lithuim_atom.webp",
-        "desc":"pizza",
-        "price":10
-    },
-    {
-        "id":4,
-        "name":"beryillium",
-        "image":"src\\assets\\beryilluim_atom.jpg",
-        "desc":"pizza",
-        "price":10
-    },
   {
-    "id":5,
-    "name":"boron",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":6,
-    "name":"carbon",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":7,
-    "name":"nitrogen",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":8,
-    "name":"oxygen",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":9,
-    "name":"fluorine",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":10,
-    "name":"neon",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":11,
-    "name":"sodium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":12,
-    "name":"magnesium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":13,
-    "name":"aluminum",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":14,
-    "name":"silicon",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":15,
-    "name":"phosphorus",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":16,
-    "name":"sulfur",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":17,
-    "name":"chlorine",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":18,
-    "name":"argon",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":19,
-    "name":"potassium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":20,
-    "name":"calcium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":21,
-    "name":"scandium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":22,
-    "name":"titanium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":23,
-    "name":"vanadium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":24,
-    "name":"chromium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":25,
-    "name":"manganese",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":26,
-    "name":"iron",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":27,
-    "name":"cobalt",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":28,
-    "name":"nickel",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":29,
-    "name":"copper",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":30,
-    "name":"zinc",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":31,
-    "name":"gallium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":32,
-    "name":"germanium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":33,
-    "name":"arsenic",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":34,
-    "name":"selenium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":35,
-    "name":"bromine",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":36,
-    "name":"krypton",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":37,
-    "name":"rubidium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":38,
-    "name":"strontium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":39,
-    "name":"yttrium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":40,
-    "name":"zirconium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":41,
-    "name":"niobium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":42,
-    "name":"molybdenum",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":43,
-    "name":"technetium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":44,
-    "name":"ruthenium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":45,
-    "name":"rhodium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":46,
-    "name":"palladium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":47,
-    "name":"silver",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":48,
-    "name":"cadmium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":49,
-    "name":"indium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":50,
-    "name":"tin",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":51,
-    "name":"antimony",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":52,
-    "name":"tellurium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":53,
-    "name":"iodine",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":54,
-    "name":"xenon",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":55,
-    "name":"cesium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":56,
-    "name":"barium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":57,
-    "name":"lanthanum",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":58,
-    "name":"cerium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":59,
-    "name":"praseodymium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":60,
-    "name":"neodymium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":61,
-    "name":"promethium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":62,
-    "name":"samarium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":63,
-    "name":"europium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":64,
-    "name":"gadolinium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":65,
-    "name":"terbium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":66,
-    "name":"dysprosium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":67,
-    "name":"holmium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":68,
-    "name":"erbium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":69,
-    "name":"thulium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":70,
-    "name":"ytterbium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":71,
-    "name":"lutetium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":72,
-    "name":"hafnium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":73,
-    "name":"tantalum",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":74,
-    "name":"tungsten",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":75,
-    "name":"rhenium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":76,
-    "name":"osmium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":77,
-    "name":"iridium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":78,
-    "name":"platinum",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":79,
-    "name":"gold",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":80,
-    "name":"mercury",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":81,
-    "name":"thallium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":82,
-    "name":"lead",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":83,
-    "name":"bismuth",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":84,
-    "name":"polonium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":85,
-    "name":"astatine",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":86,
-    "name":"radon",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":87,
-    "name":"francium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":88,
-    "name":"radium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":89,
-    "name":"actinium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":90,
-    "name":"thorium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":91,
-    "name":"protactinium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":92,
-    "name":"uranium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":93,
-    "name":"neptunium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":94,
-    "name":"plutonium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":95,
-    "name":"americium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":96,
-    "name":"curium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":97,
-    "name":"berkelium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":98,
-    "name":"californium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":99,
-    "name":"einsteinium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":100,
-    "name":"fermium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":101,
-    "name":"mendelevium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":102,
-    "name":"nobelium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":103,
-    "name":"lawrencium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":104,
-    "name":"rutherfordium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":105,
-    "name":"dubnium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":106,
-    "name":"seaborgium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":107,
-    "name":"bohrium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":108,
-    "name":"hassium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":109,
-    "name":"meitnerium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":110,
-    "name":"darmstadtium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":111,
-    "name":"roentgenium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":112,
-    "name":"copernicium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":113,
-    "name":"nihonium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":114,
-    "name":"flerovium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":115,
-    "name":"moscovium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":116,
-    "name":"livermorium",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":117,
-    "name":"tennessine",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-},
-{
-    "id":118,
-    "name":"oganesson",
-    "image":"pizza.png",
-    "desc":"pizza",
-    "price":10
-} 
+    "id": 1,
+    "name": "hydrogen",
+    "image": "src\\assets\\hydrogen_atom.webp",
+    "desc": "Hydrogen is the lightest and most abundant element in the universe. It is widely used in fuel production, chemical manufacturing, and clean‑energy research. Its low density makes it ideal for lifting gases and hydrogen fuel applications.",
+    "price": 5
+  },
+  {
+    "id": 2,
+    "name": "helium",
+    "image": "src\\assets\\helium_atom.webp",
+    "desc": "Helium is an inert noble gas known for its extremely low boiling point. It is essential for cryogenics, MRI cooling systems, and scientific instruments. Its limited global supply makes it relatively expensive.",
+    "price": 30
+  },
+  {
+    "id": 3,
+    "name": "lithium",
+    "image": "src\\assets\\lithuim_atom.webp",
+    "desc": "Lithium is a soft, reactive metal used heavily in rechargeable batteries. It also appears in pharmaceuticals and lightweight metal alloys. Demand has surged due to electric vehicle production.",
+    "price": 70
+  },
+  {
+    "id": 4,
+    "name": "beryllium",
+    "image": "src\\assets\\beryilluim_atom.jpg",
+    "desc": "Beryllium is a strong, lightweight metal used in aerospace, satellites, and precision instruments. It has excellent thermal stability and stiffness. However, it is toxic in dust form and requires careful handling.",
+    "price": 800
+  },
+  { "id": 5, "name": "boron", "image": "", "desc": "Boron is a metalloid used in fiberglass, ceramics, and high‑strength materials. It plays a key role in borosilicate glass and semiconductor doping. Its unique bonding properties make it valuable in advanced materials.", "price": 5 },
+  { "id": 6, "name": "carbon", "image": "", "desc": "Carbon is the basis of all known life and forms countless compounds. It appears in graphite, diamond, and carbon‑fiber materials. Its versatility makes it one of the most important elements in chemistry.", "price": 1 },
+  { "id": 7, "name": "nitrogen", "image": "", "desc": "Nitrogen is a colorless gas that makes up most of Earth's atmosphere. It is used in fertilizers, cryogenics, and industrial cooling. Its inert nature makes it ideal for preserving food and preventing oxidation.", "price": 0.2 },
+  { "id": 8, "name": "oxygen", "image": "", "desc": "Oxygen is essential for respiration and combustion. It is widely used in medicine, welding, and water treatment. As a highly reactive gas, it forms oxides with most elements.", "price": 1 },
+  { "id": 9, "name": "fluorine", "image": "", "desc": "Fluorine is the most reactive element, forming compounds with almost everything. It is used in fluoropolymers, toothpaste, and uranium processing. Its extreme reactivity requires specialized containment.", "price": 190 },
+  { "id": 10, "name": "neon", "image": "", "desc": "Neon is an inert noble gas famous for its bright red‑orange glow in signs. It is also used in lasers and high‑voltage indicators. Its rarity in the atmosphere makes it costly.", "price": 1500 },
+  { "id": 11, "name": "sodium", "image": "", "desc": "Sodium is a soft, reactive metal that reacts violently with water. It is used in streetlights, heat exchangers, and chemical synthesis. In nature, it is most commonly found as sodium chloride.", "price": 3 },
+  { "id": 12, "name": "magnesium", "image": "", "desc": "Magnesium is a lightweight metal used in alloys, fireworks, and medicine. It burns with a bright white flame and is essential for biological processes. Its low density makes it ideal for aerospace applications.", "price": 4 },
+  { "id": 13, "name": "aluminum", "image": "", "desc": "Aluminum is a lightweight, corrosion‑resistant metal used in construction, packaging, and transportation. It is the most abundant metal in Earth's crust. Its recyclability makes it economically valuable.", "price": 2 },
+  { "id": 14, "name": "silicon", "image": "", "desc": "Silicon is a semiconductor essential for electronics and solar panels. It is also a major component of sand and glass. Its electrical properties make it the backbone of modern technology.", "price": 15 },
+  { "id": 15, "name": "phosphorus", "image": "", "desc": "Phosphorus is a reactive nonmetal used in fertilizers, matches, and detergents. It exists in several forms, including white and red phosphorus. It is essential for DNA and energy transfer in living organisms.", "price": 4 },
+  { "id": 16, "name": "sulfur", "image": "", "desc": "Sulfur is a yellow nonmetal used in fertilizers, rubber processing, and sulfuric acid production. It has been known since ancient times. Its compounds play major roles in industry and biology.", "price": 0.5 },
+  { "id": 17, "name": "chlorine", "image": "", "desc": "Chlorine is a greenish gas used in disinfectants, PVC plastics, and water treatment. It is highly reactive and toxic in pure form. Its compounds are essential in many industrial processes.", "price": 0.3 },
+  { "id": 18, "name": "argon", "image": "", "desc": "Argon is an inert noble gas used in welding, lighting, and scientific equipment. It prevents oxidation by displacing air. It is the third most abundant gas in Earth's atmosphere.", "price": 5 },
+  { "id": 19, "name": "potassium", "image": "", "desc": "Potassium is a soft, reactive metal essential for biological functions. It is widely used in fertilizers and chemical synthesis. It reacts violently with water, producing heat and hydrogen gas.", "price": 20 },
+  { "id": 20, "name": "calcium", "image": "", "desc": "Calcium is a reactive metal vital for bones, shells, and biological signaling. Industrially, it is used in steelmaking and reducing agents. It is abundant in minerals like limestone.", "price": 2 },
+  { "id": 21, "name": "scandium", "image": "", "desc": "Scandium is a lightweight metal used in aerospace alloys and high‑intensity lighting. It is rare and difficult to extract. Its unique properties improve the strength of aluminum alloys.", "price": 150000 },
+  { "id": 22, "name": "titanium", "image": "", "desc": "Titanium is a strong, corrosion‑resistant metal used in aircraft, implants, and high‑performance materials. It has an excellent strength‑to‑weight ratio. Its oxide is used in white pigments.", "price": 12 },
+  { "id": 23, "name": "vanadium", "image": "", "desc": "Vanadium is used in high‑strength steel alloys and catalysts. It improves the durability of tools and structural materials. Its compounds also play roles in energy storage systems.", "price": 30 },
+  { "id": 24, "name": "chromium", "image": "", "desc": "Chromium is a shiny metal used in stainless steel and chrome plating. It resists corrosion and adds hardness to alloys. Some of its compounds are toxic and require careful handling.", "price": 12 },
+  { "id": 25, "name": "manganese", "image": "", "desc": "Manganese is used in steelmaking, batteries, and chemical processes. It improves hardness and durability in alloys. It is also essential for biological enzyme function.", "price": 2 },
+  { "id": 26, "name": "iron", "image": "", "desc": "Iron is one of the most widely used metals, forming the basis of steel. It is essential for construction, tools, and machinery. Biologically, it is crucial for oxygen transport in blood.", "price": 0.1 },
+  { "id": 27, "name": "cobalt", "image": "", "desc": "Cobalt is used in batteries, magnets, and high‑strength alloys. It is essential for lithium‑ion battery production. Its radioactive isotope, cobalt‑60, is used in medical treatments.", "price": 40 },
+  { "id": 28, "name": "nickel", "image": "", "desc": "Nickel is a corrosion‑resistant metal used in stainless steel and batteries. It is also used in coins and plating. Demand has increased due to electric vehicle batteries.", "price": 20 },
+  { "id": 29, "name": "copper", "image": "", "desc": "Copper is an excellent conductor used in wiring, electronics, and plumbing. It has been used by humans for thousands of years. Its antimicrobial properties make it useful in medical settings.", "price": 9 },
+  { "id": 30, "name": "zinc", "image": "", "desc": "Zinc is used in galvanizing steel, batteries, and alloys like brass. It is essential for biological processes and immune function. Its corrosion resistance makes it valuable in construction.", "price": 3 },
+    { "id": 31, "name": "gallium", "image": "", "desc": "Gallium is a soft metal that melts in your hand. It is used in semiconductors, LEDs, and solar cells. Its unique properties make it important in advanced electronics.", "price": 300 },
+  { "id": 32, "name": "germanium", "image": "", "desc": "Germanium is a semiconductor used in fiber optics, infrared optics, and electronics. It was crucial in early transistor development. Its transparency to infrared light makes it valuable in lenses.", "price": 1500 },
+  { "id": 33, "name": "arsenic", "image": "", "desc": "Arsenic is a toxic metalloid used in semiconductors, alloys, and wood preservatives. Historically known as a poison, it still has industrial uses. Its compounds must be handled with care.", "price": 5 },
+  { "id": 34, "name": "selenium", "image": "", "desc": "Selenium is used in electronics, glassmaking, and pigments. It is essential in small amounts for biological function. Its photoconductive properties make it useful in solar cells.", "price": 30 },
+  { "id": 35, "name": "bromine", "image": "", "desc": "Bromine is a reddish liquid halogen used in flame retardants and photography. It is highly reactive and corrosive. Its compounds are important in industry but require careful handling.", "price": 5 },
+  { "id": 36, "name": "krypton", "image": "", "desc": "Krypton is a noble gas used in lighting, lasers, and high‑performance windows. It is rare in the atmosphere, making it expensive. Its bright white glow is used in specialized lamps.", "price": 350 },
+  { "id": 37, "name": "rubidium", "image": "", "desc": "Rubidium is a soft, reactive metal used in research, electronics, and atomic clocks. It reacts violently with water. Its rarity and specialized uses make it costly.", "price": 15000 },
+  { "id": 38, "name": "strontium", "image": "", "desc": "Strontium is used in fireworks, magnets, and medical imaging. It produces a bright red flame when burned. Its compounds are also used in ceramics and glass.", "price": 6 },
+  { "id": 39, "name": "yttrium", "image": "", "desc": "Yttrium is used in LEDs, lasers, and superconductors. It is also important in medical imaging. Its compounds help create bright red phosphors in displays.", "price": 150 },
+  { "id": 40, "name": "zirconium", "image": "", "desc": "Zirconium is a corrosion‑resistant metal used in nuclear reactors and ceramics. It has a high melting point and excellent durability. Its oxide is used in heat‑resistant materials.", "price": 50 },
+  { "id": 41, "name": "niobium", "image": "", "desc": "Niobium is used in superconductors, jet engines, and high‑strength steel. It improves the toughness of alloys. Its superconducting properties make it valuable in scientific equipment.", "price": 45 },
+  { "id": 42, "name": "molybdenum", "image": "", "desc": "Molybdenum is a strong metal used in steel alloys, electronics, and catalysts. It withstands high temperatures and corrosion. It is essential in many industrial processes.", "price": 30 },
+  { "id": 43, "name": "technetium", "image": "", "desc": "Technetium is a radioactive synthetic metal used in medical imaging. It does not occur naturally in significant amounts. Its rarity makes it extremely valuable.", "price": 50000000 },
+  { "id": 44, "name": "ruthenium", "image": "", "desc": "Ruthenium is a rare metal used in electronics, catalysts, and alloys. It enhances hardness and corrosion resistance. Its scarcity makes it expensive.", "price": 700 },
+  { "id": 45, "name": "rhodium", "image": "", "desc": "Rhodium is one of the most valuable metals, used in catalytic converters and jewelry. It is highly reflective and corrosion‑resistant. Its extreme rarity drives its high price.", "price": 400000 },
+  { "id": 46, "name": "palladium", "image": "", "desc": "Palladium is used in catalytic converters, electronics, and hydrogen storage. It is a key metal in automotive emissions control. Its price fluctuates with industrial demand.", "price": 70000 },
+  { "id": 47, "name": "silver", "image": "", "desc": "Silver is a precious metal used in jewelry, electronics, and photography. It has the highest electrical conductivity of any element. Its antimicrobial properties add to its usefulness.", "price": 800 },
+  { "id": 48, "name": "cadmium", "image": "", "desc": "Cadmium is used in batteries, pigments, and coatings. It is toxic and must be handled carefully. Its compounds are important in specialized industrial applications.", "price": 2 },
+  { "id": 49, "name": "indium", "image": "", "desc": "Indium is a soft metal used in touchscreens, semiconductors, and solar panels. It forms transparent conductive coatings. Its rarity makes it moderately expensive.", "price": 300 },
+  { "id": 50, "name": "tin", "image": "", "desc": "Tin is a corrosion‑resistant metal used in solder, coatings, and alloys. It has been used since ancient times. Its low melting point makes it ideal for electronics soldering.", "price": 25 },
+  { "id": 51, "name": "antimony", "image": "", "desc": "Antimony is a metalloid used in flame retardants, alloys, and semiconductors. It has been known since ancient times and was historically used in cosmetics. Its compounds must be handled with care due to toxicity.", "price": 10 },
+  { "id": 52, "name": "tellurium", "image": "", "desc": "Tellurium is a rare metalloid used in solar panels, alloys, and thermoelectric devices. It improves the machinability of metals. Its scarcity makes it valuable in advanced technologies.", "price": 100 },
+  { "id": 53, "name": "iodine", "image": "", "desc": "Iodine is a halogen essential for thyroid function and used in disinfectants. It forms deep purple vapors when heated. Its compounds are widely used in medicine and imaging.", "price": 40 },
+  { "id": 54, "name": "xenon", "image": "", "desc": "Xenon is a noble gas used in high‑end lighting, anesthesia, and ion propulsion. It is extremely rare in the atmosphere. Its unique properties make it valuable but expensive.", "price": 1200 },
+  { "id": 55, "name": "cesium", "image": "", "desc": "Cesium is a soft, golden metal used in atomic clocks and research. It reacts explosively with water. Its precision applications make it highly valuable.", "price": 75000 },
+  { "id": 56, "name": "barium", "image": "", "desc": "Barium is a reactive metal used in drilling fluids, fireworks, and medical imaging. It produces a green flame when burned. Its compounds are widely used but must be handled carefully.", "price": 3 },
+  { "id": 57, "name": "lanthanum", "image": "", "desc": "Lanthanum is a rare‑earth metal used in camera lenses, batteries, and catalysts. It improves optical clarity and battery performance. It is relatively abundant among rare‑earth elements.", "price": 15 },
+  { "id": 58, "name": "cerium", "image": "", "desc": "Cerium is the most abundant rare‑earth element and is used in catalysts, glass polishing, and lighter flints. It oxidizes easily in air. Its versatility makes it widely used in industry.", "price": 6 },
+  { "id": 59, "name": "praseodymium", "image": "", "desc": "Praseodymium is a rare‑earth metal used in magnets, aircraft engines, and green glass coloring. It has strong magnetic properties. Its compounds are important in high‑tech applications.", "price": 60 },
+  { "id": 60, "name": "neodymium", "image": "", "desc": "Neodymium is essential for powerful permanent magnets used in motors, headphones, and wind turbines. It has strong magnetic properties. Demand has grown due to electric vehicles.", "price": 100 },
+  { "id": 61, "name": "promethium", "image": "", "desc": "Promethium is a radioactive rare‑earth metal used in research and specialized lighting. It is extremely rare and mostly synthetic. Its scarcity makes it highly valuable.", "price": 200000000 },
+  { "id": 62, "name": "samarium", "image": "", "desc": "Samarium is used in strong magnets, cancer treatments, and neutron absorption. It has important applications in nuclear reactors. Its magnetic alloys are highly durable.", "price": 40 },
+  { "id": 63, "name": "europium", "image": "", "desc": "Europium is a rare‑earth metal used in red and blue phosphors for screens. It is highly reactive and valuable. Its compounds are essential for display technology.", "price": 600 },
+  { "id": 64, "name": "gadolinium", "image": "", "desc": "Gadolinium is used in MRI contrast agents, magnets, and neutron shielding. It has unusual magnetic properties. Its medical applications make it important in diagnostics.", "price": 150 },
+  { "id": 65, "name": "terbium", "image": "", "desc": "Terbium is used in green phosphors, lasers, and high‑performance magnets. It is rare and difficult to extract. Its compounds are essential for modern displays.", "price": 800 },
+  { "id": 66, "name": "dysprosium", "image": "", "desc": "Dysprosium is used in high‑temperature magnets and nuclear reactors. It improves magnet stability under heat. Its rarity makes it valuable in advanced technologies.", "price": 450 },
+  { "id": 67, "name": "holmium", "image": "", "desc": "Holmium is a rare‑earth metal with strong magnetic properties. It is used in lasers and nuclear control rods. Its unique magnetism makes it scientifically important.", "price": 700 },
+  { "id": 68, "name": "erbium", "image": "", "desc": "Erbium is used in fiber‑optic amplifiers, lasers, and pink‑colored glass. It enhances signal strength in telecommunications. Its compounds are important in optics.", "price": 300 },
+  { "id": 69, "name": "thulium", "image": "", "desc": "Thulium is one of the rarest lanthanides and is used in lasers and portable X‑ray devices. It has limited natural sources. Its rarity makes it expensive.", "price": 2000 },
+  { "id": 70, "name": "ytterbium", "image": "", "desc": "Ytterbium is used in lasers, alloys, and atomic clocks. It has interesting optical properties. Its compounds are valuable in precision technologies.", "price": 150 },
+  { "id": 71, "name": "lutetium", "image": "", "desc": "Lutetium is the rarest stable lanthanide and is used in PET scanners and catalysts. It is extremely scarce and difficult to extract. Its rarity makes it very expensive.", "price": 10000 },
+  { "id": 72, "name": "hafnium", "image": "", "desc": "Hafnium is used in nuclear reactors, superalloys, and microprocessors. It has excellent neutron‑absorbing properties. Its close association with zirconium makes separation costly.", "price": 1200 },
+  { "id": 73, "name": "tantalum", "image": "", "desc": "Tantalum is a corrosion‑resistant metal used in electronics, capacitors, and surgical implants. It withstands high temperatures and chemical attack. Its reliability makes it essential in high‑end electronics.", "price": 200 },
+  { "id": 74, "name": "tungsten", "image": "", "desc": "Tungsten has the highest melting point of any metal and is used in tools, filaments, and armor‑piercing rounds. It is extremely dense and durable. Its hardness makes it valuable in industry.", "price": 40 },
+  { "id": 75, "name": "rhenium", "image": "", "desc": "Rhenium is a rare metal used in jet engines and catalysts. It has one of the highest melting points of all elements. Its scarcity makes it extremely expensive.", "price": 5000 },
+  { "id": 76, "name": "osmium", "image": "", "desc": "Osmium is the densest naturally occurring element and is used in alloys and fountain pen tips. It has a distinctive blue‑gray color. Its toxicity and rarity require careful handling.", "price": 400 },
+  { "id": 77, "name": "iridium", "image": "", "desc": "Iridium is a hard, corrosion‑resistant metal used in electronics, spark plugs, and scientific equipment. It is one of the rarest elements in Earth's crust. Its durability makes it highly valuable.", "price": 200000 },
+  { "id": 78, "name": "platinum", "image": "", "desc": "Platinum is a precious metal used in jewelry, catalysts, and electronics. It resists corrosion and has excellent catalytic properties. Its rarity makes it expensive.", "price": 30000 },
+  { "id": 79, "name": "gold", "image": "", "desc": "Gold is a highly valued precious metal used in jewelry, electronics, and finance. It is extremely resistant to corrosion. Its conductivity and rarity make it technologically important.", "price": 70000 },
+  { "id": 80, "name": "mercury", "image": "", "desc": "Mercury is a liquid metal used in thermometers, switches, and scientific instruments. It is toxic and must be handled carefully. Its unique liquid state makes it scientifically interesting.", "price": 50 },
+  { "id": 81, "name": "thallium", "image": "", "desc": "Thallium is a soft, toxic metal used in electronics and research. It was historically used in rat poison. Its compounds require extreme caution.", "price": 30 },
+  { "id": 82, "name": "lead", "image": "", "desc": "Lead is a dense metal used in batteries, shielding, and construction. It is toxic and regulated in many applications. Its softness and density make it useful industrially.", "price": 2 },
+  { "id": 83, "name": "bismuth", "image": "", "desc": "Bismuth is a brittle metal used in cosmetics, medicines, and low‑melting alloys. It is one of the least toxic heavy metals. Its colorful oxide makes it visually distinctive.", "price": 15 },
+  { "id": 84, "name": "polonium", "image": "", "desc": "Polonium is a highly radioactive element used in research and specialized devices. It is extremely rare and dangerous. Its production is limited to nuclear facilities.", "price": 100000000000 },
+  { "id": 85, "name": "astatine", "image": "", "desc": "Astatine is one of the rarest elements on Earth and exists only in trace amounts. It is highly radioactive and short‑lived. Its scarcity makes it nearly priceless.", "price": 500000000000 },
+  { "id": 86, "name": "radon", "image": "", "desc": "Radon is a radioactive noble gas formed from uranium decay. It is used in research and medical applications. It must be handled with extreme caution due to health risks.", "price": 10000 },
+  { "id": 87, "name": "francium", "image": "", "desc": "Francium is an extremely rare and highly radioactive metal. Only tiny amounts exist at any time. Its scarcity makes it one of the most expensive substances on Earth.", "price": 999000000000000 },
+  { "id": 88, "name": "radium", "image": "", "desc": "Radium is a radioactive metal historically used in luminous paints. It is now used in research and medicine. Its radioactivity requires strict handling protocols.", "price": 100000000 },
+  { "id": 89, "name": "actinium", "image": "", "desc": "Actinium is a radioactive metal used in research and cancer treatments. It glows blue in the dark due to intense radioactivity. It is extremely rare and valuable.", "price": 10000000 },
+  { "id": 90, "name": "thorium", "image": "", "desc": "Thorium is a radioactive metal used in research, alloys, and potential nuclear reactors. It is more abundant than uranium. Its stability makes it a candidate for future energy systems.", "price": 30 },
+  { "id": 91, "name": "protactinium", "image": "", "desc": "Protactinium is a rare and radioactive metal used mainly in research. It is extremely difficult to extract. Its scarcity makes it one of the most expensive naturally occurring elements.", "price": 300000000 },
+  { "id": 92, "name": "uranium", "image": "", "desc": "Uranium is a heavy metal used as fuel in nuclear reactors and weapons. It is naturally radioactive and found in many minerals. Its energy density makes it strategically important.", "price": 120 },
+  { "id": 93, "name": "neptunium", "image": "", "desc": "Neptunium is a synthetic radioactive metal used in research and nuclear applications. It is produced in reactors. Its rarity makes it extremely valuable.", "price": 5000000000 },
+  { "id": 94, "name": "plutonium", "image": "", "desc": "Plutonium is a radioactive metal used in nuclear reactors and weapons. It is highly regulated and dangerous. Its production is limited to specialized facilities.", "price": 4000 },
+  { "id": 95, "name": "americium", "image": "", "desc": "Americium is a synthetic radioactive metal used in smoke detectors and research. It emits alpha particles. Its production cost makes it expensive.", "price": 1500000 },
+  { "id": 96, "name": "curium", "image": "", "desc": "Curium is a synthetic radioactive metal used in research and space power sources. It glows red in the dark due to radioactivity. It is extremely costly to produce.", "price": 200000000 },
+  { "id": 97, "name": "berkelium", "image": "", "desc": "Berkelium is a synthetic element used only in research. It is produced in minute quantities. Its rarity makes it extremely expensive.", "price": 10000000000 },
+  { "id": 98, "name": "californium", "image": "", "desc": "Californium is a highly radioactive metal used in neutron sources and research. It is one of the most expensive elements ever produced. Its applications include mineral analysis and reactor startup.", "price": 27000000 },
+  { "id": 99, "name": "einsteinium", "image": "", "desc": "Einsteinium is a synthetic radioactive metal produced in extremely small amounts. It is used only in scientific research. Its scarcity makes it extraordinarily valuable.", "price": 100000000000 },
+  { "id": 100, "name": "fermium", "image": "", "desc": "Fermium is a synthetic element created in nuclear explosions and reactors. It exists only in microscopic quantities. Its rarity pushes its value near the upper limit.", "price": 500000000000 },
+  { "id": 101, "name": "mendelevium", "image": "", "desc": "Mendelevium is a synthetic radioactive metal produced in extremely small quantities. It is used only in scientific research. Its rarity and production difficulty make it extraordinarily valuable.", "price": 200000000000 },
+  { "id": 102, "name": "nobelium", "image": "", "desc": "Nobelium is a synthetic element used exclusively in research. It is highly radioactive and exists only in trace amounts. Its scarcity pushes its value toward the upper limit of synthetic elements.", "price": 300000000000 },
+  { "id": 103, "name": "lawrencium", "image": "", "desc": "Lawrencium is a synthetic radioactive metal with no commercial applications. It is produced atom by atom in particle accelerators. Its extreme rarity makes it incredibly expensive.", "price": 500000000000 },
+  { "id": 104, "name": "rutherfordium", "image": "", "desc": "Rutherfordium is a synthetic element used only in scientific research. It has no stable isotopes and is produced in particle accelerators. Its scarcity makes it extremely valuable.", "price": 800000000000 },
+  { "id": 105, "name": "dubnium", "image": "", "desc": "Dubnium is a synthetic radioactive metal with no practical applications outside research. It is produced in tiny quantities. Its rarity places it among the most expensive elements.", "price": 900000000000 },
+  { "id": 106, "name": "seaborgium", "image": "", "desc": "Seaborgium is a synthetic element named after Glenn T. Seaborg. It is highly unstable and exists only briefly after creation. Its extreme rarity makes it extraordinarily valuable.", "price": 950000000000 },
+  { "id": 107, "name": "bohrium", "image": "", "desc": "Bohrium is a synthetic radioactive metal used only in research. It has no stable isotopes and decays rapidly. Its production difficulty makes it extremely costly.", "price": 970000000000 },
+  { "id": 108, "name": "hassium", "image": "", "desc": "Hassium is a synthetic element produced in particle accelerators. It is highly radioactive and short‑lived. Its extreme rarity pushes its value near the upper limit.", "price": 980000000000 },
+  { "id": 109, "name": "meitnerium", "image": "", "desc": "Meitnerium is a synthetic element named after physicist Lise Meitner. It exists only for fractions of a second. Its scarcity makes it one of the most expensive elements.", "price": 990000000000 },
+  { "id": 110, "name": "darmstadtium", "image": "", "desc": "Darmstadtium is a synthetic element created in particle collisions. It has no practical uses beyond research. Its extreme instability makes it incredibly rare and valuable.", "price": 995000000000 },
+  { "id": 111, "name": "roentgenium", "image": "", "desc": "Roentgenium is a synthetic radioactive metal named after Wilhelm Röntgen. It exists only momentarily after creation. Its rarity places it near the top of the value scale.", "price": 998000000000 },
+  { "id": 112, "name": "copernicium", "image": "", "desc": "Copernicium is a synthetic element named after Nicolaus Copernicus. It is extremely unstable and produced in atom‑level quantities. Its scarcity makes it extraordinarily valuable.", "price": 999000000000 },
+  { "id": 113, "name": "nihonium", "image": "", "desc": "Nihonium is a synthetic element discovered in Japan. It is highly radioactive and short‑lived. Its rarity pushes its value close to the maximum range.", "price": 500000000000000 },
+  { "id": 114, "name": "flerovium", "image": "", "desc": "Flerovium is a superheavy synthetic element with extremely short half‑life. It is produced in particle accelerators. Its rarity makes it extraordinarily expensive.", "price": 700000000000000 },
+  { "id": 115, "name": "moscovium", "image": "", "desc": "Moscovium is a synthetic element named after Moscow. It decays almost instantly after formation. Its extreme rarity places it among the highest‑valued elements.", "price": 800000000000000 },
+  { "id": 116, "name": "livermorium", "image": "", "desc": "Livermorium is a synthetic radioactive metal created in particle accelerators. It has no stable isotopes and exists only briefly. Its scarcity makes it extremely valuable.", "price": 900000000000000 },
+  { "id": 117, "name": "tennessine", "image": "", "desc": "Tennessine is a superheavy synthetic halogen. It is extremely unstable and produced atom by atom. Its rarity pushes its value near the upper limit.", "price": 950000000000000 },
+  { "id": 118, "name": "oganesson", "image": "", "desc": "Oganesson is the heaviest known element and is extremely unstable. It exists only for milliseconds after creation. Its rarity and production difficulty place it at the maximum price cap.", "price": 999000000000000 }
 ]

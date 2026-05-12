@@ -12,7 +12,11 @@ interface Prop {
 function PizzaCard({ data, setOrdered }: Prop) {
   return (
     <Card className="h-100 shawdow-sm bg-white rounded">
-      <Card.Img variant="top" src={data.image} />
+      {data.image ? (
+        <Card.Img variant="top" src={data.image} />
+      ) : (
+        <Card.Img variant="top" src={"pizza.png"} />
+      )}
       <Card.Body className="d-flex flex-column">
         <div className="d-flex mb-2 justify-content-between">
           <Card.Title className="mb-0 font-weight-bold">{data.name}</Card.Title>

@@ -1,8 +1,7 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import { useState } from "react";
-import "./App.sass";
-
 import { Col, Container, Row, ToastContainer } from "react-bootstrap";
+import "./App.sass";
 import { Confirm } from "./componets/Confirm";
 import PizzaCard from "./componets/PizzaCard";
 import pizzas from "./data.json";
@@ -32,6 +31,16 @@ function App() {
 
   return (
     <>
+      <div>
+        <Container>
+          <Row xs={"auto"} sm={"auto"} md={"auto"} lg={"auto"}>
+            <img
+              src="src\assets\atomic pizza colored logo.png"
+              alt="atomic pizza logo"
+            />
+          </Row>
+        </Container>
+      </div>
       <ToastContainer position="top-start" className="p-3">
         <div className="z-3 position-fixed">
           {ordered.map(
@@ -57,14 +66,7 @@ function App() {
       <Container className="z-1 position-absolute pt-5 start-50 translate-middle-x w-100">
         <Row className="justify-content-evenly">
           {pizzas.map((data) => (
-            <Col
-              xs={"auto"}
-              sm={"auto"}
-              md={"auto"}
-              lg={"auto"}
-              className="mb-5"
-              key={data.id}
-            >
+            <Col xs={12} sm={6} md={4} lg={3} className="mb-5" key={data.id}>
               <PizzaCard data={data} setOrdered={display_confirm} />
             </Col>
           ))}
