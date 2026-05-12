@@ -2,28 +2,28 @@
   {
     "id": 1,
     "name": "hydrogen",
-    "image": "public\\hydrogen_atom.webp",
+    "image": "hydrogen_atom.webp",
     "desc": "Hydrogen is the lightest and most abundant element in the universe. It is widely used in fuel production, chemical manufacturing, and clean‑energy research. Its low density makes it ideal for lifting gases and hydrogen fuel applications.",
     "price": 5
   },
   {
     "id": 2,
     "name": "helium",
-    "image": "public\\helium_atom.webp",
+    "image": "helium_atom.webp",
     "desc": "Helium is an inert noble gas known for its extremely low boiling point. It is essential for cryogenics, MRI cooling systems, and scientific instruments. Its limited global supply makes it relatively expensive.",
     "price": 30
   },
   {
     "id": 3,
     "name": "lithium",
-    "image": "public\\lithuim_atom.webp",
+    "image": "lithuim_atom.webp",
     "desc": "Lithium is a soft, reactive metal used heavily in rechargeable batteries. It also appears in pharmaceuticals and lightweight metal alloys. Demand has surged due to electric vehicle production.",
     "price": 70
   },
   {
     "id": 4,
     "name": "beryllium",
-    "image": "public\\beryilluim_atom.jpg",
+    "image": "beryilluim_atom.jpg",
     "desc": "Beryllium is a strong, lightweight metal used in aerospace, satellites, and precision instruments. It has excellent thermal stability and stiffness. However, it is toxic in dust form and requires careful handling.",
     "price": 800
   },
