@@ -38,9 +38,9 @@ function App() {
 
   return (
     <>
-      <div className="z-3 position-fixed">
-        <Navbar className="bg-body-primary">
-          <Container>
+      <div>
+        <Navbar bg="dark" className="" variant="dark">
+          <Container className="">
             <NavbarBrand>
               <a href="#">Atomic Pizza</a>
             </NavbarBrand>
