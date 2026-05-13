@@ -16,7 +16,7 @@ export function Confirm({ toggle, name, id }: Prop) {
       </Toast.Header>
 
       <Toast.Body>
-        Your {name} will be with you shortly in 0–1 billion business years
+        Your {name} will be with you shortly in 0 to 1 billion business years
       </Toast.Body>
     </Toast>
   );

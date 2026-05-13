@@ -30,7 +30,7 @@ function PizzaCard({ data, setOrdered }: Prop) {
           className="mt-auto font-weight-bold"
           variant="success"
         >
-          Buy the Pizza
+          Buy the atom
         </Button>
       </Card.Body>
     </Card>

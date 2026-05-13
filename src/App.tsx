@@ -33,7 +33,14 @@ function App() {
     <>
       <div>
         <Container>
-          <Row xs={"auto"} sm={"auto"} md={"auto"} lg={"auto"}>
+          <Row
+            xs={"auto"}
+            sm={"auto"}
+            md={"auto"}
+            lg={"auto"}
+            xl={"auto"}
+            xxl={"auto"}
+          >
             <img src="atomic pizza colored logo.png" alt="atomic pizza logo" />
           </Row>
         </Container>
@@ -63,7 +70,16 @@ function App() {
       <Container className="z-1 position-absolute pt-5 start-50 translate-middle-x w-100">
         <Row className="justify-content-evenly">
           {pizzas.map((data) => (
-            <Col xs={12} sm={6} md={4} lg={3} className="mb-5" key={data.id}>
+            <Col
+              xs={12}
+              sm={6}
+              md={4}
+              lg={3}
+              xl={2}
+              xxl={1}
+              className="mb-5"
+              key={data.id}
+            >
               <PizzaCard data={data} setOrdered={display_confirm} />
             </Col>
           ))}
