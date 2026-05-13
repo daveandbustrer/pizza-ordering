@@ -1,13 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import { useState } from "react";
-import {
-  Col,
-  Container,
-  Navbar,
-  NavbarBrand,
-  Row,
-  ToastContainer,
-} from "react-bootstrap";
+import { Col, Container, Navbar, Row, ToastContainer } from "react-bootstrap";
 import "./App.sass";
 import { Confirm } from "./componets/Confirm";
 import PizzaCard from "./componets/PizzaCard";
@@ -39,11 +32,22 @@ function App() {
   return (
     <>
       <div>
-        <Navbar bg="dark" className="" variant="dark">
-          <Container className="">
-            <NavbarBrand>
-              <a href="#">Atomic Pizza</a>
-            </NavbarBrand>
+        <Navbar className="navbar-expand-lg bg-body-tertiary">
+          <Container fluid>
+            <a className="navbar-brand" href="#">
+              Navbar
+            </a>
+            <button
+              className="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarSupportedContent"
+              aria-controls="navbarSupportedContent"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span className="navbar-toggler-icon"></span>
+            </button>
           </Container>
         </Navbar>
       </div>
