@@ -27,7 +27,7 @@
     "desc": "Beryllium is a strong, lightweight metal used in aerospace, satellites, and precision instruments. It has excellent thermal stability and stiffness. However, it is toxic in dust form and requires careful handling.",
     "price": 800
   },
-  { "id": 5, "name": "boron", "image": "", "desc": "Boron is a metalloid used in fiberglass, ceramics, and high‑strength materials. It plays a key role in borosilicate glass and semiconductor doping. Its unique bonding properties make it valuable in advanced materials.", "price": 5 },
+  { "id": 5, "name": "boron", "image": "boron_atom.png", "desc": "Boron is a metalloid used in fiberglass, ceramics, and high‑strength materials. It plays a key role in borosilicate glass and semiconductor doping. Its unique bonding properties make it valuable in advanced materials.", "price": 5 },
   { "id": 6, "name": "carbon", "image": "", "desc": "Carbon is the basis of all known life and forms countless compounds. It appears in graphite, diamond, and carbon‑fiber materials. Its versatility makes it one of the most important elements in chemistry.", "price": 1 },
   { "id": 7, "name": "nitrogen", "image": "", "desc": "Nitrogen is a colorless gas that makes up most of Earth's atmosphere. It is used in fertilizers, cryogenics, and industrial cooling. Its inert nature makes it ideal for preserving food and preventing oxidation.", "price": 0.2 },
   { "id": 8, "name": "oxygen", "image": "", "desc": "Oxygen is essential for respiration and combustion. It is widely used in medicine, welding, and water treatment. As a highly reactive gas, it forms oxides with most elements.", "price": 1 },
