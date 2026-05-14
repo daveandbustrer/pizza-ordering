@@ -28,9 +28,9 @@ function PizzaCard({ data, setOrdered }: Prop) {
         <Button
           onClick={() => setOrdered(data.name, data.id)}
           className="mt-auto font-weight-bold"
-          variant="success"
+          variant="primary"
         >
-          Buy the atom
+          ADD TO CART
         </Button>
       </Card.Body>
     </Card>

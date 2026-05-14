@@ -5,7 +5,7 @@ import { Confirm } from "./Confirm";
 import PizzaCard from "./PizzaCard";
 import pizzas from "./data.json";
 
-function HomePage() {
+function MenuPage() {
   const initialState = pizzas.map(() => ({
     name: "",
     visible: false,
@@ -30,13 +30,6 @@ function HomePage() {
 
   return (
     <>
-      <div>
-        <Container>
-          <Row xs={"auto"} sm={"auto"} md={"auto"} lg={"auto"}>
-            <img src="atomic pizza colored logo.png" alt="atomic pizza logo" />
-          </Row>
-        </Container>
-      </div>
       <ToastContainer position="top-start" className="p-3">
         <div className="z-3 position-fixed pt-5">
           {ordered.map(
@@ -72,4 +65,4 @@ function HomePage() {
   );
 }
 
-export default HomePage;
+export default MenuPage;

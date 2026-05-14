@@ -1,42 +1,19 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import {
-  Container,
-  NavLink,
-  Navbar,
-  NavbarBrand,
-  NavbarToggle,
-} from "react-bootstrap";
+import { Route, Routes } from "react-router-dom";
 import "./App.sass";
-import HomePage from "./componets/home";
+import HomePage from "./componets/HomePage";
+import MenuPage from "./componets/MenuPage";
+import MyNavBar from "./componets/MyNavBar";
 
 function App() {
   return (
     <>
-      <Navbar
-        className="navbar-expand-lg bg-body-tertiary"
-        data-bs-theme="dark"
-        fixed="top"
-      >
-        <Container fluid>
-          <NavbarBrand>
-            <NavLink>
-              <img src="pizza.png" alt="" />
-            </NavLink>
-          </NavbarBrand>
-          <NavbarToggle
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          />
-        </Container>
-        <Container>
-          <NavLink></NavLink>
-        </Container>
-      </Navbar>
-      <HomePage />
+      <MyNavBar />
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/menu" element={<MenuPage />} />
+        <Route path="/cart" element={""} />
+      </Routes>
     </>
   );
 }
