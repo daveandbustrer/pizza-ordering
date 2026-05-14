@@ -5,6 +5,7 @@ import {
   Container,
   Navbar,
   NavbarToggle,
+  NavLink,
   Row,
   ToastContainer,
 } from "react-bootstrap";
@@ -38,11 +39,15 @@ function App() {
 
   return (
     <>
-      <Navbar className="navbar-expand-lg bg-body-tertiary" fixed="top">
+      <Navbar
+        className="navbar-expand-lg bg-body-tertiary"
+        data-bs-theme="dark"
+        fixed="top"
+      >
         <Container fluid>
-          <a className="navbar-brand" href="#">
-            Navbar
-          </a>
+          <NavLink>
+            <img src="pizza.png" alt="" />
+          </NavLink>
           <NavbarToggle
             type="button"
             data-bs-toggle="collapse"
@@ -50,9 +55,10 @@ function App() {
             aria-controls="navbarSupportedContent"
             aria-expanded="false"
             aria-label="Toggle navigation"
-          >
-            <span className="navbar-toggler-icon"></span>
-          </NavbarToggle>
+          />
+        </Container>
+        <Container>
+          <NavLink></NavLink>
         </Container>
       </Navbar>
       <div>
